@@ -6,6 +6,14 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:fmp="http://www.filemaker.com/fmpxmlresult" version="1.0">
 <xsl:output method="text" version="1.0" encoding="UTF-8" indent="no" />
 <xsl:template match="fmp:FMPReport">
+  
+<!--
+========================================================================================
+                Not yet released
+========================================================================================
+-->
+
+</xsl:template>
 </xsl:stylesheet>
 <!--
 ========================================================================================
